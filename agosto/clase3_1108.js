@@ -19,7 +19,7 @@ console.log(result);
 // TODO: Modulos: export, import, import()
 
 // import nombre from "./modulos"
-const data = require("./modulos.js");
+const data = require("../data/variables.js");
 console.log(data);
 
 // Objetos {}
