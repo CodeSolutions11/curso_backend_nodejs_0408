@@ -1,0 +1,12 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "Es mi primer proyecto con npm",
+  "license": "ISC",
+  "author": "JesusDev",
+  "type": "ES Module",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  }
+}
