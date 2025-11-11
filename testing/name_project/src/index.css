@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-black;
+  @apply py-4 px-8;
+}
